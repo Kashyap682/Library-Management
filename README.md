@@ -22,12 +22,12 @@ Issue a Book, Return a Book
 
 ## Screenshots:
 Main Menu: \
-<img width=250px src='screenshots/main menu.png'> \
+<a href="https://imgur.com/JDTRF75"><img width=290px src="https://i.imgur.com/JDTRF75.png" title="source: imgur.com" /></a> \
 Books Menu: \
-<img width=250px src='screenshots/Books Menu.png'> \
+<a href="https://imgur.com/9iQUn1z"><img width=290px src="https://i.imgur.com/9iQUn1z.png" title="source: imgur.com" /></a> \
 Members Menu: \
-<img width=250px src='screenshots/members menu.png'> \
+<a href="https://imgur.com/YF22t08"><img width=290px src="https://i.imgur.com/YF22t08.png" title="source: imgur.com" /></a> \
 Books Record: \
-<img width=250px src='screenshots/Books Record.png'> \
+<a href="https://imgur.com/rxzmAkw"><img width=290px src="https://i.imgur.com/rxzmAkw.png" title="source: imgur.com" /></a> \
 Member Display: \
-<img width=250px src='screenshots/main menu.png'>
+<a href="https://imgur.com/ak010T9"><img width=290px src="https://i.imgur.com/ak010T9.png" title="source: imgur.com" /></a>
